@@ -53,7 +53,6 @@
 |<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_pause.png" >| Pause| Pause button suspends execution of the app.|
 |<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_play.png" >| Play| Play button continues execution of the app.|
 |<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_step_over.png" >| Step Over| Step over will execute the current line of code, including any methods.|
-|<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_step_over.png" >| Step Over| Step over will execute the current line of code, including any methods.|
 |<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_step_into.png" >| Step Into| If the current line of code calls a method, step into starts execution at the current line, and then stops when it reaches the first line of the a called method.|
 |<img src="https://ironboard-curriculum-content.s3.amazonaws.com/iOS/intro-to-xcode/xcode_debug_step_out.png" >| Step Out| Step out executes the rest of the current method or function.|
 
